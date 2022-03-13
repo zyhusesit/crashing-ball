@@ -1,4 +1,4 @@
-# crashing-ball
+e# crashing-ball
 问题描述：碰撞的小球。
 1、数轴上有一条长度为L（L为偶数)的线段，左端点在原点，右端点在坐标L处。
 
